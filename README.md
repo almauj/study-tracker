@@ -1,2 +1,8 @@
-# study-tracker
-This is a gamified CRUD application that features a building block reward system, time/goal tracking, and user authentication.
+# My Study Blocks
+This is a gamified study tracker and productivity manager. 
+
+## Features
+- Time Tracking and Goal Setting
+- Reward System
+- Smart Feedback with LLM Integration
+
